@@ -16,7 +16,7 @@ function chillHop() {
 			cover:
 				"https://img.wynk.in/unsafe/275x275/filters:no_upscale():format(webp)/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/1579520415/srch_muzik247_FT1012354.jpg",
 			artist: "Sid Sriram",
-			audio: "https://mp3.chillhop.com/serve.php/?mp3=9272",
+			audio: "https://dns4.vippendu.com/download/128k-dprzp/Uyire.mp3",
 			color: ["#EF8EA9", "#ab417f"],
 			// id: uuidv4(),
 			active: false,
