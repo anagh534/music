@@ -9,7 +9,7 @@ function chillHop() {
 			audio: "https://dns4.vippendu.com/download/128k-dprzp/Uyire.mp3",
 			color: ["#EF8EA9", "#ab417f"],
 			// id: uuidv4(),
-			active: false,
+			active: true,
 		},
 		{
 			name: "Thee Minnal",
@@ -19,7 +19,7 @@ function chillHop() {
 			audio: "https://dns4.vippendu.com/download/128k-dmvcd/Thee-Minnal.mp3",
 			color: ["#205950", "#2ab3bf"],
 			// id: uuidv4(),
-			active: true,
+			active: false,
 		},
 		{
 			name: "Darshana",
