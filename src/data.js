@@ -2,16 +2,6 @@
 function chillHop() {
 	return [
 		{
-			name: "Thee Minnal",
-			cover:
-				"https://a10.gaanacdn.com/gn_img/albums/Dk9KNk23Bx/9KNkznjJ3B/size_l.jpg",
-			artist: "Marthyan,Sushin Shyam",
-			audio: "https://dns4.vippendu.com/download/128k-dmvcd/Thee-Minnal.mp3",
-			color: ["#205950", "#2ab3bf"],
-			// id: uuidv4(),
-			active: true,
-		},
-		{
 			name: "Uyire",
 			cover:
 				"https://img.wynk.in/unsafe/275x275/filters:no_upscale():format(webp)/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/music/1579520415/srch_muzik247_FT1012354.jpg",
@@ -20,6 +10,16 @@ function chillHop() {
 			color: ["#EF8EA9", "#ab417f"],
 			// id: uuidv4(),
 			active: false,
+		},
+		{
+			name: "Thee Minnal",
+			cover:
+				"https://a10.gaanacdn.com/gn_img/albums/Dk9KNk23Bx/9KNkznjJ3B/size_l.jpg",
+			artist: "Marthyan,Sushin Shyam",
+			audio: "https://dns4.vippendu.com/download/128k-dmvcd/Thee-Minnal.mp3",
+			color: ["#205950", "#2ab3bf"],
+			// id: uuidv4(),
+			active: true,
 		},
 		{
 			name: "Darshana",
