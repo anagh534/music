@@ -52,16 +52,6 @@ function chillHop() {
 			active: false,
 		},
 		{
-			name: "Mayakondu",
-			cover:
-				"https://kuttyweb.xyz/wp-content/uploads/2021/03/Mayakondu.jpg",
-			artist: "Swetha Mohan",
-			audio: "https://dslink.xyz/Kuttyweb.xyz/2021/Chathur%20Mukham/Mayakondu-Kuttyweb.xyz.mp3",
-			color: ["#205950", "#2ab3bf"],
-			// id: uuidv4(),
-			active: false,
-		},
-		{
 			name: "Ee Kaattu",
 			cover:
 				"https://a10.gaanacdn.com/gn_img/song/81l3Mye3rM/l3M5VLND3r/size_l_1516002285.webp",
