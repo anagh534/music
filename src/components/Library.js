@@ -7,12 +7,12 @@ const Library = ({ songs, currentSong, setCurrentSong, audioRef, isPlaying, setS
 		<LibraryContainer libraryStatus={libraryStatus}>
 			<H1>Library</H1>
 			<SongContainer>
-				{songs.map((song) => (
+				{songs.map((song,index) => (
 					<LibrarySong
 						song={song}
 						songs={songs}
 						setCurrentSong={setCurrentSong}
-						key={song.id}
+						key={index}
 						audioRef={audioRef}
 						isPlaying={isPlaying}
 						setSongs={setSongs}
